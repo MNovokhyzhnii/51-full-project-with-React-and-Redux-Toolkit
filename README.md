@@ -8,7 +8,7 @@
 
 ## Демо
 
-[Відкрити онлайн (Vercel)](https://51-react-app-with-library.vercel.app/)
+[Відкрити онлайн (Vercel)](https://52-full-project-with-react-and-redux-toolkit.vercel.app/)
 
 ---
 
